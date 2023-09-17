@@ -2,7 +2,9 @@
  #  Program for prime number
      
      def number (n)
-  count = 0
+     count = 0
+      
+       
        if (n == 2 || n == 3 )
             count=0
 
