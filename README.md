@@ -1,5 +1,5 @@
-# ruby language program
- # ruby program for prime number
+
+ #  Program for prime number
      
      def number (n)
   count = 0
